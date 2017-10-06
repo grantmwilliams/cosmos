@@ -4,6 +4,8 @@
   
   The @Counter.count method allows us to track calls to objective functions so we can compare performance of algorithms
 
+  Functions taken from the list found here: https://en.wikipedia.org/wiki/Test_functions_for_optimization
+
 """
 import numpy as np
 import math
